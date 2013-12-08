@@ -10,17 +10,18 @@ When save changes then reflesh Webview Window.
 
 Available to Add & Use Bookmarklet.
 
-##Setup
+##Setup(Not absolutely necessary)
 
 1. Open "System Preferences" > "Keyboard" > "Shortcuts" > ""Services"
 2. Check "markdownlet"
 
-<img src="https://raw.github.com/veadar/Convert-HTML-Tag/master/screenshot1.jpg">
-
 ##Screenshot & Screencast
 
-<img src="http://blog-imgs-26.fc2.com/v/e/a/veadardiary/Convert_HTML_Tag1.jpg">
+<a href="http://quick.as/xp7tram"><img src="https://raw.github.com/veadar/markdownlet/master/screenshot1.jpg"></a>
 
+<img src="https://raw.github.com/veadar/markdownlet/master/screenshot2.png">
+
+Click first Screenshot to open <a href="http://quick.as/xp7tram">Screencast page</a>.
 
 ##Download
 
