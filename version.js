@@ -1,7 +1,7 @@
 {
   "markdownlet": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/veadar/markdownlet/releases",
-    "comment": "・Fixed issue that WebView's content does not reload."
+    "comment": "・Change icon.\n・Add Shortcut keys to run bookmarklet(maybe 10.7 later because use getElementByID method)."
   }
 }
