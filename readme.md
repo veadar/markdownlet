@@ -40,20 +40,6 @@ h1{
 	color:red;
 }
 ```
-	
-
-	body{
-		background-color: #f0f0f0;
-	}
-
-	p{
-		padding:6px;
-		font-size:20px;
-	}
-
-	h1{
-		color:red;
-	}
 
 ##Download
 
