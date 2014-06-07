@@ -25,6 +25,23 @@ Click first Screenshot to open <a href="http://quick.as/xp7tram">Screencast page
 
 ##Edit CSS Example
 
+
+```css
+body{
+	background-color: #f0f0f0;
+}
+
+p{
+	padding:6px;
+	font-size:20px;
+}
+
+h1{
+	color:red;
+}
+```
+	
+
 	body{
 		background-color: #f0f0f0;
 	}
