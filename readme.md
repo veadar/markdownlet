@@ -23,6 +23,21 @@ Available to Add & Use Bookmarklet.
 
 Click first Screenshot to open <a href="http://quick.as/xp7tram">Screencast page</a>.
 
+##Edit CSS Example
+
+	body{
+		background-color: #f0f0f0;
+	}
+
+	p{
+		padding:6px;
+		font-size:20px;
+	}
+
+	h1{
+		color:red;
+	}
+
 ##Download
 
 Click Here → [Download](https://github.com/veadar/markdownlet/releases)
