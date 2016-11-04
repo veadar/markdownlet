@@ -1,7 +1,7 @@
 {
   "markdownlet": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "url": "https://github.com/veadar/markdownlet/releases",
-    "comment": "・Bug fix(without comment out)."
+    "comment": "・Change marked to pandoc for Sierra."
   }
 }
