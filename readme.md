@@ -47,6 +47,7 @@ Click Here → [Download](https://github.com/veadar/markdownlet/releases)
 
 ##Special Thanks & Used Codes
 
+- [pandoc](http://pandoc.org)
 - <a href="http://memogakisouko.appspot.com/MenuBarAppleScript.html">MenuBarAppleScript</a>
 - [Bootstrap 3](http://getbootstrap.com/)
 - [jQuery](http://jquery.com/)
